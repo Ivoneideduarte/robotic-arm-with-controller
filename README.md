@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Ivoneideduarte/robotic-arm-with-controller/blob/main/LICENSE) 
 
  ## About the project:
- <p> Design of a follower line car for robotics competitions.</p>
+ <p> This design has the feature of being controlled by pots, joysticks, TV control, PS2, bluetooth or automatic with pre-recorded positions in The EEPROM..</p>
  
  ## Project
  You can find these robotic arm files directly from the project source [click here](https://www.thingiverse.com/thing:1015238 "STL Robotic Arm")!
