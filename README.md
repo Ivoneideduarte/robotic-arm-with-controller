@@ -13,15 +13,16 @@
   5. 4x servos 9g
   6. 4x Pots 1k
   7. 2x joysticks
-  8. 4x push buttons
-  9. LED 5mm
-  10. F-F / M-F jumpers
-  11. key seesaw on-off
-  12. male jack connector
-  13. Lithium battery support
-  14. 2x 18650 batteries
-  15. bluetooth hc-05
-  16. IR Remote Control Kit
+  8. Resistors 330R, 1k and 2k2
+  9. 4x push buttons
+  10. LED 5mm
+  11. F-F / M-F jumpers
+  12. key seesaw on-off
+  13. male jack connector
+  14. Lithium battery support
+  15. 2x 18650 batteries
+  16. bluetooth hc-05
+  17. IR Remote Control Kit
  
  ## Circuit:
  ![Web 1](https://github.com/Ivoneideduarte/line-follower-car/blob/main/Circuit/Car-line-follower_bb.png)
