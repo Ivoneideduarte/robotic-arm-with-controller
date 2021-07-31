@@ -25,7 +25,15 @@
   17. IR Remote Control Kit
  
  ## Circuit:
- ![Web 1](https://github.com/Ivoneideduarte/line-follower-car/blob/main/Circuit/Car-line-follower_bb.png)
+ ![Web 1](https://github.com/Ivoneideduarte/robotic-arm-with-controller/blob/main/Circuit/Fritzing/robotic_arm_bb.png)
+ 
+ ## robotic controller case:
+ ![Web 1](https://github.com/Ivoneideduarte/robotic-arm-with-controller/blob/main/Circuit/img/controlador%20rob%C3%B3tico.png)
+ ![Web 1](https://github.com/Ivoneideduarte/robotic-arm-with-controller/blob/main/Circuit/img/Parte%20superior.png)
+ ![Web 1](https://github.com/Ivoneideduarte/robotic-arm-with-controller/blob/main/Circuit/img/Parte%20inferior.png)
+ 
+ ## Application:
+ ![Web 1]()
  
  ## Author:
  Téc. em Mecatrônica - Ivoneide Duarte
