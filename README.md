@@ -3,7 +3,13 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Ivoneideduarte/robotic-arm-with-controller/blob/main/LICENSE) 
 
  ## About the project:
- Design of a follower line car for robotics competitions.
+ <p> Design of a follower line car for robotics competitions.</p>
+ 
+ ## Project
+ You can find these robotic arm files directly from the project source [click here](https://www.thingiverse.com/thing:1015238 "STL Robotic Arm")!
+ 
+ 
+ ![Web 1](https://github.com/Ivoneideduarte/robotic-arm-with-controller/blob/main/Circuit/robotic%20arm.jpeg)
  
 ## Material used:
   1. Robotic arm printed in 3D 
@@ -25,15 +31,26 @@
   17. IR Remote Control Kit
  
  ## Circuit:
+ <p> This is the squematic of our project, in which are all the necessary electronic connections for the operation of our equipment. </p>
+ 
+ 
  ![Web 1](https://github.com/Ivoneideduarte/robotic-arm-with-controller/blob/main/Circuit/Fritzing/robotic_arm_bb.png)
  
  ## robotic controller case:
+ This is a robotic controller developed by me that has multiple features to assist in the development of robotic arm programming.
+ **If you are interested in purchasing this product just contact me for more information:** [click here](https://www.instagram.com/ivoneide.robotic/ "Instagram")!
+ 
  ![Web 1](https://github.com/Ivoneideduarte/robotic-arm-with-controller/blob/main/Circuit/img/controlador%20rob%C3%B3tico.png)
+ 
  ![Web 1](https://github.com/Ivoneideduarte/robotic-arm-with-controller/blob/main/Circuit/img/Parte%20superior.png)
+ 
  ![Web 1](https://github.com/Ivoneideduarte/robotic-arm-with-controller/blob/main/Circuit/img/Parte%20inferior.png)
  
  ## Application:
- ![Web 1]()
+ This app was developed by me in The Inventor App to control the robotic arm via bluetooth. I will be making available the editable file of the app at this link [click here](https://gallery.appinventor.mit.edu/?galleryid=3729ea42-c2f3-4433-96f5-b32f11ff359e "Robotic Arm")!
+ 
+ 
+ ![Web 1](https://github.com/Ivoneideduarte/robotic-arm-with-controller/blob/main/Circuit/app.jpeg)
  
  ## Author:
  Téc. em Mecatrônica - Ivoneide Duarte
